@@ -1,0 +1,43 @@
+.shadow-custom {
+  /* width: 100%; */
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:0px 23px;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+
+
+/* search bar css */
+.search-container{
+  width: 20rem;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
+
+.search-box{
+  width: 100%;
+  background-color: transparent;
+  border:0;
+  outline: none;
+  padding: 10px;
+}
+
+.glass,.close{
+  cursor: pointer;
+  color: gray;
+}
+
+.glass:hover, .close:hover{
+  color: black;
+}
+
+.close{
+  
+  margin-right: 10px;
+}
