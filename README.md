@@ -1,4 +1,4 @@
-Full Stack Notes App (MERN)
+##Full Stack Notes App (MERN)
 
 This is a full-stack Notes App built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The app allows users to manage their notes efficiently by providing various functionalities such as user authentication, note creation, note editing, note pinning, and searching through notes.
 
