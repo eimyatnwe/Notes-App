@@ -30,5 +30,5 @@ This is a full-stack Notes App built using the MERN stack (MongoDB, Express.js, 
 
 # Prerequisites
 Make sure you have the following installed on your machine:
-# Node.js and npm (or Yarn)
-# MongoDB (locally or using a service like MongoDB Atlas)
++ Node.js and npm (or Yarn)
++ MongoDB (locally or using a service like MongoDB Atlas)
