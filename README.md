@@ -4,26 +4,26 @@ This is a full-stack Notes App built using the MERN stack (MongoDB, Express.js, 
 
 # Features
 
-User Authentication: Secure login and signup functionality to allow users to register, log in, and manage their own notes.
-Note Creation: Users can create new notes and save them to their personal collection.
-Note Editing: Users can update existing notes to reflect any changes they may have made.
-Note Pinning: Prioritize important notes by pinning them to the top of the notes list.
-Note Searching: Search through the notes collection to easily find specific notes.
-Technologies Used
++ User Authentication: Secure login and signup functionality to allow users to register, log in, and manage their own notes.
++ Note Creation: Users can create new notes and save them to their personal collection.
++ Note Editing: Users can update existing notes to reflect any changes they may have made.
++ Note Pinning: Prioritize important notes by pinning them to the top of the notes list.
++ Note Searching: Search through the notes collection to easily find specific notes.
 
+# Technologies Used
 # Frontend:
-React.js: For building the user interface.
-React Router: For navigation and routing.
-Axios: For making HTTP requests to the backend.
++ React.js: For building the user interface.
++ React Router: For navigation and routing.
++ Axios: For making HTTP requests to the backend.
 
 # Backend:
-Node.js: For building the server-side logic.
-Express.js: For creating APIs and handling routes.
-JWT (JSON Web Token): For secure authentication and authorization.
++ Node.js: For building the server-side logic.
++ Express.js: For creating APIs and handling routes.
++ JWT (JSON Web Token): For secure authentication and authorization.
 
 # Database:
-MongoDB: For storing user data and notes.
-Mongoose: For interacting with MongoDB in an object-oriented way.
++ MongoDB: For storing user data and notes.
++ Mongoose: For interacting with MongoDB in an object-oriented way.
 
 
 # Setup and Installation
